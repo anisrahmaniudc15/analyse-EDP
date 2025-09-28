@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Modifier analyse-EDP NNc
+=======
+# Modifier analyse-EDP NN
+>>>>>>> 24931ccd1231d06da3a25e97f8a61f77703afbbe
 navier stokes equation
 
 ## EDP soft
